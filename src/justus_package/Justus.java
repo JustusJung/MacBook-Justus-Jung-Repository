@@ -1,5 +1,5 @@
 package justus_package;
 
-public class Justus_class {
+public class Justus {
 
 }
